@@ -1,0 +1,4 @@
+#Mon Nov 05 16:44:03 MSK 2018
+base.0=/home/ansar/web/ionicApp2/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

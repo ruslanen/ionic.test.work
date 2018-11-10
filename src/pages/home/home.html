@@ -1,0 +1,13 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Фотографии из сервера</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <h2>{{title}}</h2>
+  <div class="list-image">
+    <app-image *ngFor="let img of images" [img]="img"></app-image>
+  </div>
+</ion-content>
+
